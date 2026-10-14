@@ -1,6 +1,6 @@
 ---
-title: "Pon un título a tu documento"
-author: "Pon aquí tu nombre y apellidos"
+title: "config_git1"
+author: "Marino Fernández Pérez"
 date: "`r Sys.Date()`"
 output:
   bookdown::pdf_document2:
